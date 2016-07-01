@@ -1,0 +1,41 @@
+.middleForm {
+    width: 400px;
+    height: 150px;
+    position: absolute;
+    transform: translateX(-50%);
+    left: 50%;
+    top: 355px;
+}
+input, form {
+    width: 100%;
+}
+.contactText {
+    color: White;
+    font-size: 60;
+    font-family: 'Pacifico', cursive;
+    padding-top: 150px;
+}
+#fauck {
+    width: 100%;
+    height: 605px;
+    position: absolute;
+    left: 0px;
+    top: 350px;
+    border-top: 3px solid #EFEFEF;
+}
+.contactInfo {
+    color: white;
+    font-family: 'Oleo Script', cursive;
+    font-size: 30px;
+}
+.contactHow {
+    color: white;
+    font-family: 'Oleo Script', cursive;
+    font-size: 40px;
+}
+.logoplacement {
+    color: white;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 60;
+    text-decoration: none
+}
